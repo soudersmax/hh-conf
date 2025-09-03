@@ -1,14 +1,67 @@
-#sample-metadata *{
-    align-items: center !important;
-    align-content: center !important;
+/* Dashboard Styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
 }
-#sample-metadata>h6 {
-    border: inset !important;
-    display: inline !important;
-    padding-right: 10px !important;
-    border-right-width: 2px !important;
-    border-left-width: 0px !important;
-    border-top-width: 0px !important;
-    border-bottom-width: 0px !important;
-    padding-left: 10px !important;
-  }
+
+.dashboard-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    color: #333;
+}
+
+.dashboard-controls {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdown {
+    grid-column: span 2;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.dropdown:focus {
+    border-color: #007bff;
+}
+
+.dashboard-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.stat-square {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #444;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
