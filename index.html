@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Program Evaluation Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #95bc67;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+            gap: 20px; /* Gap between grid items */
+            margin: 20px auto;
+            width: 80%;
+        }
+        .grid-item {
+            background-color: #f0f0f0; /* Light gray background for grid items */
+            padding: 10px;
+            text-align: center;
+        }
+        .chart-item {
+            grid-column: span 3; /* Each chart spans 3 columns */
+        }
+        .top-answers-item {
+            grid-column: span 1; /* Top Answers spans 1 column */
+        }
+    </style>
+</head>
+<body>
+    <h1>Program Evaluation Dashboard</h1>
+    <div class="grid-container">
+        <div class="grid-item">Rating Statistics</div>
+        <div class="grid-item">Rating Statistics</div>
+        <div class="grid-item">Rating Statistics</div>
+        <div class="grid-item">Rating Statistics</div>
+        <div class="grid-item chart-item" id="impact-chart-container">
+            <!-- Impact Summary chart will be embedded here -->
+        </div>
+        <div class="grid-item top-answers-item">
+            <h1>Top Impacts</h1>
+            <!-- Content for Top Answers section will go here -->
+        </div>
+        <div class="grid-item chart-item" id="intentions-chart-container">
+            <!-- Intentions Summary chart will be embedded here -->
+        </div>
+         <div class="grid-item top-answers-item">
+            <h1>Top Intentions</h1>
+            <!-- Content for Top Answers section will go here -->
+        </div>
+         <div class="grid-item chart-item" id="purchase-reason-chart-container">
+            <!-- Purchase Reason Summary chart will be embedded here -->
+        </div>
+        <div class="grid-item top-answers-item">
+            <h1>Top Purchase Reasons</h1>
+            <!-- Content for Top Answers section will go here -->
+        </div>
+    </div>
+</body>
+</html>
