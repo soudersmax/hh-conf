@@ -75,14 +75,14 @@ function aggregateCounts(data, questionType) {
 function renderBarChart(divId, counts, title) {
 	// Sort bars in descending order by value
 	const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-	// Multi-line wrap for long labels
-	function wrapLabel(label, maxLen = 15) {
-		if (label.length > maxLen) {
-			let idx = label.lastIndexOf(' ', maxLen);
-			if (idx === -1) idx = maxLen;
-			return label.slice(0, idx) + '<br>' + label.slice(idx + 1);
+	// Multi-line wrap every 4 words
+	function wrapLabel(label) {
+		const words = label.split(' ');
+		let lines = [];
+		for (let i = 0; i < words.length; i += 4) {
+			lines.push(words.slice(i, i + 4).join(' '));
 		}
-		return label;
+		return lines.join('<br>');
 	}
 	const labels = entries.map(e => wrapLabel(e[0]));
 	const values = entries.map(e => e[1]);
