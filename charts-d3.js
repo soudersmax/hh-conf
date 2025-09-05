@@ -75,12 +75,12 @@ function aggregateCounts(data, questionType) {
 function renderBarChart(divId, counts, title) {
 	// Sort bars in descending order by value
 	const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-	// Multi-line wrap every 5 words
+	// Multi-line wrap every 4 words
 	function wrapLabel(label) {
 		const words = label.split(' ');
 		let lines = [];
-		for (let i = 0; i < words.length; i += 5) {
-			lines.push(words.slice(i, i + 5).join(' '));
+		for (let i = 0; i < words.length; i += 4) {
+			lines.push(words.slice(i, i + 4).join(' '));
 		}
 		return lines.join('<br>');
 	}

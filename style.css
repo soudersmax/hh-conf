@@ -2,13 +2,13 @@
     display: flex;
     justify-content: center;
     gap: 2rem;
-    max-width: 900px;
+    max-width: 1400px;
     margin: 0 auto 2rem auto;
-    min-height: 480px; /* 4x original 120px */
+    min-height: 480px;
 }
 
 #purchase-reasons, #impacts {
-    flex: 0 0 calc(900px * 3 / 4);
+    flex: 0 0 calc(1400px * 3 / 4);
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
@@ -21,7 +21,7 @@
 }
 
 #top-3-purchase-reasons, #top-3-impacts {
-    flex: 0 0 calc(900px / 4);
+    flex: 0 0 calc(1400px / 4);
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
@@ -39,13 +39,13 @@
     display: flex;
     justify-content: center;
     gap: 2rem;
-    max-width: 900px;
+    max-width: 1400px;
     margin: 0 auto 2rem auto;
-    min-height: 480px; /* 4x original 120px */
+    min-height: 480px;
 }
 
 #intentions {
-    flex: 0 0 calc(900px * 3 / 4);
+    flex: 0 0 calc(1400px * 3 / 4);
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
@@ -58,7 +58,7 @@
 }
 
 #top-3-intentions {
-    flex: 0 0 calc(900px / 4);
+    flex: 0 0 calc(1400px / 4);
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
@@ -73,7 +73,7 @@
     justify-content: center;
 }
 #intentions {
-    max-width: calc(900px * 3 / 4); /* 3 out of 4 stat squares width */
+    max-width: calc(1400px * 3 / 4); /* 3 out of 4 stat squares width */
     margin: 0 auto 2rem auto;
     background: #233c4d;
     border-radius: 16px;
@@ -136,7 +136,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
-    max-width: 900px;
+    max-width: 1400px;
     margin: 0 auto;
     margin-bottom: 2rem;
 }
