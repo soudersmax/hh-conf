@@ -73,10 +73,18 @@ function aggregateCounts(data, questionType) {
 }
 
 function renderBarChart(divId, counts, title) {
-	// Sort labels and values in descending order by value
-	let entries = Object.entries(counts);
-	entries.sort((a, b) => b[1] - a[1]);
-	const labels = entries.map(e => e[0]);
+	// Sort bars in descending order by value
+	const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+	// Multi-line wrap for long labels
+	function wrapLabel(label, maxLen = 15) {
+		if (label.length > maxLen) {
+			let idx = label.lastIndexOf(' ', maxLen);
+			if (idx === -1) idx = maxLen;
+			return label.slice(0, idx) + '<br>' + label.slice(idx + 1);
+		}
+		return label;
+	}
+	const labels = entries.map(e => wrapLabel(e[0]));
 	const values = entries.map(e => e[1]);
 	const trace = {
 		x: labels,
@@ -85,9 +93,9 @@ function renderBarChart(divId, counts, title) {
 		marker: { color: 'rgba(55,128,191,0.7)' }
 	};
 	const layout = {
-		margin: { t: 40, b: 200 }, // more space below
+		margin: { t: 40, b: 240 }, // more space below
 		xaxis: {
-			tickangle: 0, // horizontal labels for easier wrapping
+			tickangle: 0, // horizontal labels
 			tickfont: { size: 12 },
 			automargin: true
 		}
@@ -119,8 +127,8 @@ function renderAllBarCharts(data) {
 	let maxRating = allRatings.length ? Math.max(...allRatings) : 'N/A';
 	let avgRating = allRatings.length ? (allRatings.reduce((a, b) => a + b, 0) / allRatings.length).toFixed(2) : 'N/A';
 
-	document.getElementById('stat1').textContent = `Total Responses: ${totalResponses}`;
-	document.getElementById('stat2').textContent = `Minimum Rating: ${minRating}`;
-	document.getElementById('stat3').textContent = `Maximum Rating: ${maxRating}`;
-	document.getElementById('stat4').textContent = `Average Rating: ${avgRating}`;
+	document.getElementById('stat1').innerHTML = `<span class="stat-label">Total Responses</span><span class="stat-value">${totalResponses}</span>`;
+	document.getElementById('stat2').innerHTML = `<span class="stat-label">Minimum Rating</span><span class="stat-value">${minRating}</span>`;
+	document.getElementById('stat3').innerHTML = `<span class="stat-label">Maximum Rating</span><span class="stat-value">${maxRating}</span>`;
+	document.getElementById('stat4').innerHTML = `<span class="stat-label">Average Rating</span><span class="stat-value">${avgRating}</span>`;
 }
