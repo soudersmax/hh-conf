@@ -1,12 +1,14 @@
 // charts-d3.js: Render bar charts for each question across all programs
 
 // Load the JSON data (fetch from local file)
-fetch('program_evaluation_summary.json')
-	.then(response => response.json())
-	.then(data => {
-		populateDropdowns(data);
-		renderAllBarCharts(data);
-	});
+document.addEventListener('DOMContentLoaded', function() {
+	fetch('program_evaluation_summary.json')
+		.then(response => response.json())
+		.then(data => {
+			populateDropdowns(data);
+			renderAllBarCharts(data);
+		});
+});
 
 function populateDropdowns(data) {
 	// Get unique months and program names
