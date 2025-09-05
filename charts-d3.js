@@ -1,39 +1,53 @@
-// charts-d3.js
-// This file uses Plotly.js and d3.js to create a bar graph from intentions_summary.json
+// charts-d3.js: Render bar charts for each question across all programs
 
-// Load intentions_summary.json using d3 and plot the chart with Plotly
-function renderIntentionsBarChart() {
-    d3.json('intentions_summary.json').then(function(data) {
-        // Get columns except 'program_name' and 'Month'
-        const columns = Object.keys(data[0]).filter(col => col !== 'program_name' && col !== 'Month');
-        // Sum each column
-        const sums = columns.map(col => data.reduce((acc, row) => acc + (Number(row[col]) || 0), 0));
+// Load the JSON data (fetch from local file)
+fetch('program_evaluation_summary.json')
+	.then(response => response.json())
+	.then(data => {
+		renderAllBarCharts(data);
+	});
 
-        const trace = {
-            x: columns,
-            y: sums,
-            type: 'bar',
-            marker: { color: '#4fc3f7' }
-        };
-
-        const layout = {
-            title: 'Intentions Summary',
-            xaxis: { title: 'Intentions' },
-            yaxis: { title: 'Sum' },
-            plot_bgcolor: '#233c4d',
-            paper_bgcolor: '#233c4d',
-            font: { color: '#fff' }
-        };
-
-        Plotly.newPlot('intentions-bar-chart', [trace], layout);
-    });
+function aggregateCounts(data, questionType) {
+	// Aggregate counts for each answer across all programs
+	const counts = {};
+	data.forEach(program => {
+		const responses = program.Responses.find(r => r.Question === questionType);
+		if (responses) {
+			Object.entries(responses.counts).forEach(([key, value]) => {
+				if (!counts[key]) counts[key] = 0;
+				counts[key] += value;
+			});
+		}
+	});
+	return counts;
 }
 
-// Call this function after the page loads
-window.addEventListener('DOMContentLoaded', renderIntentionsBarChart);
+function renderBarChart(divId, counts, title) {
+	const labels = Object.keys(counts);
+	const values = labels.map(l => counts[l]);
+	const trace = {
+		x: labels,
+		y: values,
+		type: 'bar',
+		marker: { color: 'rgba(55,128,191,0.7)' }
+	};
+	const layout = {
+		title: title,
+		margin: { t: 40, b: 120 },
+		xaxis: { tickangle: -45 }
+	};
+	Plotly.newPlot(divId, [trace], layout);
+}
 
-// To display the chart, add a <div id="intentions-bar-chart"></div> in your HTML
-// Make sure to include Plotly.js and d3.js in your HTML:
-// <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-// <script src="https://d3js.org/d3.v7.min.js"></script>
-// <script src="charts-d3.js"></script>
+function renderAllBarCharts(data) {
+	// Aggregate and render for each question
+	const questions = [
+		{ type: 'intentions', div: 'intentionsBar', title: 'Intentions Across All Programs' },
+		{ type: 'purchase_reason', div: 'purchaseReasonBar', title: 'Purchase Reason Across All Programs' },
+		{ type: 'impacts', div: 'impactsBar', title: 'Impacts Across All Programs' }
+	];
+	questions.forEach(q => {
+		const counts = aggregateCounts(data, q.type);
+		renderBarChart(q.div, counts, q.title);
+	});
+}
