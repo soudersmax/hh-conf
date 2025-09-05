@@ -73,8 +73,11 @@ function aggregateCounts(data, questionType) {
 }
 
 function renderBarChart(divId, counts, title) {
-	const labels = Object.keys(counts);
-	const values = labels.map(l => counts[l]);
+	// Sort labels and values in descending order by value
+	let entries = Object.entries(counts);
+	entries.sort((a, b) => b[1] - a[1]);
+	const labels = entries.map(e => e[0]);
+	const values = entries.map(e => e[1]);
 	const trace = {
 		x: labels,
 		y: values,
@@ -82,8 +85,12 @@ function renderBarChart(divId, counts, title) {
 		marker: { color: 'rgba(55,128,191,0.7)' }
 	};
 	const layout = {
-		margin: { t: 40, b: 120 },
-		xaxis: { tickangle: -45 }
+		margin: { t: 40, b: 200 }, // more space below
+		xaxis: {
+			tickangle: 0, // horizontal labels for easier wrapping
+			tickfont: { size: 12 },
+			automargin: true
+		}
 	};
 	Plotly.newPlot(divId, [trace], layout);
 }
