@@ -4,6 +4,7 @@
     gap: 2rem;
     max-width: 900px;
     margin: 0 auto 2rem auto;
+    min-height: 360px; /* 3x original 120px */
 }
 
 #purchase-reasons, #impacts {
@@ -40,6 +41,7 @@
     gap: 2rem;
     max-width: 900px;
     margin: 0 auto 2rem auto;
+    min-height: 360px; /* 3x original 120px */
 }
 
 #intentions {

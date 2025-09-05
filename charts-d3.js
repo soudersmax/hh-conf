@@ -4,8 +4,35 @@
 fetch('program_evaluation_summary.json')
 	.then(response => response.json())
 	.then(data => {
+		populateDropdowns(data);
 		renderAllBarCharts(data);
 	});
+
+function populateDropdowns(data) {
+	// Get unique months and program names
+	const months = [...new Set(data.map(d => d.Month))].sort();
+	const programs = [...new Set(data.map(d => d["Program Name"]))].sort();
+
+	const monthSelect = document.getElementById('month-select');
+	const programSelect = document.getElementById('program-select');
+
+	// Remove all except first option
+	monthSelect.length = 1;
+	programSelect.length = 1;
+
+	months.forEach(month => {
+		const opt = document.createElement('option');
+		opt.value = month;
+		opt.textContent = month;
+		monthSelect.appendChild(opt);
+	});
+	programs.forEach(program => {
+		const opt = document.createElement('option');
+		opt.value = program;
+		opt.textContent = program;
+		programSelect.appendChild(opt);
+	});
+}
 
 function aggregateCounts(data, questionType) {
 	// Aggregate counts for each answer across all programs
@@ -32,7 +59,6 @@ function renderBarChart(divId, counts, title) {
 		marker: { color: 'rgba(55,128,191,0.7)' }
 	};
 	const layout = {
-		title: title,
 		margin: { t: 40, b: 120 },
 		xaxis: { tickangle: -45 }
 	};
@@ -42,12 +68,12 @@ function renderBarChart(divId, counts, title) {
 function renderAllBarCharts(data) {
 	// Aggregate and render for each question
 	const questions = [
-		{ type: 'intentions', div: 'intentionsBar', title: 'Intentions Across All Programs' },
-		{ type: 'purchase_reason', div: 'purchaseReasonBar', title: 'Purchase Reason Across All Programs' },
-		{ type: 'impacts', div: 'impactsBar', title: 'Impacts Across All Programs' }
+		{ type: 'intentions', div: 'intentionsBar' },
+		{ type: 'purchase_reason', div: 'purchaseReasonBar' },
+		{ type: 'impacts', div: 'impactsBar' }
 	];
 	questions.forEach(q => {
 		const counts = aggregateCounts(data, q.type);
-		renderBarChart(q.div, counts, q.title);
+		renderBarChart(q.div, counts);
 	});
 }
