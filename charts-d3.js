@@ -95,7 +95,7 @@ function renderBarChart(divId, counts, title) {
 	const layout = {
 		margin: { t: 40, b: 240 }, // more space below
 		xaxis: {
-			tickangle: 0, // horizontal labels
+			tickangle: -45, // rotate labels for readability
 			tickfont: { size: 12 },
 			automargin: true
 		}
