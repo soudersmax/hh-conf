@@ -99,4 +99,21 @@ function renderAllBarCharts(data) {
 		const counts = aggregateCounts(data, q.type);
 		renderBarChart(q.div, counts);
 	});
+
+	// Calculate stats from all_responses for filtered programs
+	let allRatings = [];
+	data.forEach(d => {
+		if (d.Ratings && Array.isArray(d.Ratings.all_responses)) {
+			allRatings = allRatings.concat(d.Ratings.all_responses);
+		}
+	});
+	let totalResponses = allRatings.length;
+	let minRating = allRatings.length ? Math.min(...allRatings) : 'N/A';
+	let maxRating = allRatings.length ? Math.max(...allRatings) : 'N/A';
+	let avgRating = allRatings.length ? (allRatings.reduce((a, b) => a + b, 0) / allRatings.length).toFixed(2) : 'N/A';
+
+	document.getElementById('stat1').textContent = `Total Responses: ${totalResponses}`;
+	document.getElementById('stat2').textContent = `Minimum Rating: ${minRating}`;
+	document.getElementById('stat3').textContent = `Maximum Rating: ${maxRating}`;
+	document.getElementById('stat4').textContent = `Average Rating: ${avgRating}`;
 }
