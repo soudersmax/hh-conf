@@ -7,7 +7,28 @@ document.addEventListener('DOMContentLoaded', function() {
 		.then(data => {
 			populateDropdowns(data);
 			renderAllBarCharts(data);
+
+			// Add event listeners for dropdowns
+			document.getElementById('month-select').addEventListener('change', function() {
+				filterAndRenderCharts(data);
+			});
+			document.getElementById('program-select').addEventListener('change', function() {
+				filterAndRenderCharts(data);
+			});
 		});
+function filterAndRenderCharts(data) {
+	const month = document.getElementById('month-select').value;
+	const program = document.getElementById('program-select').value;
+
+	let filtered = data;
+	if (month) {
+		filtered = filtered.filter(d => d.Month === month);
+	}
+	if (program) {
+		filtered = filtered.filter(d => d["Program Name"] === program);
+	}
+	renderAllBarCharts(filtered);
+}
 });
 
 function populateDropdowns(data) {
