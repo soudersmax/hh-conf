@@ -110,9 +110,9 @@ function renderBarChart(divId, counts, title) {
 function renderAllBarCharts(data) {
 	// Aggregate and render for each question
 	const questions = [
-		{ type: 'intentions', div: 'intentionsBar', header: 'intentionsBar-header' },
-		{ type: 'purchase_reason', div: 'purchaseReasonBar', header: 'purchaseReasonBar-header' },
-		{ type: 'impacts', div: 'impactsBar', header: 'impactsBar-header' }
+		{ type: 'intentions', div: 'intentionsBar', header: 'What was your intention for attending this program?' },
+		{ type: 'purchase_reason', div: 'purchaseReasonBar', header: 'What factors influenced your choice to attend this program, specifically?' },
+		{ type: 'impacts', div: 'impactsBar', header: 'Which of these statements best summarizes what you are taking away from your  program experience and how you expect to integrate your experience into your daily life and/or within your own community?' }
 	];
 	questions.forEach(q => {
 		const counts = aggregateCounts(data, q.type);
