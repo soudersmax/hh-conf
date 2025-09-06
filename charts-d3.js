@@ -94,7 +94,7 @@ function renderBarChart(divId, counts, title) {
 		x: labels,
 		y: values,
 		type: 'bar',
-		marker: { color: 'rgba(55,128,191,0.7)' }
+		marker: { color: '#95bc67' }
 	};
 	const layout = {
 		margin: { t: 40, b: 120 }, // less space below
