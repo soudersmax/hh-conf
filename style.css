@@ -1,15 +1,52 @@
-/* Dashboard Graphs Grid Layout */
-.purchase-reasons-row, .impacts-row, .intentions-row  {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
+/* Dashboard Graphs Layout for new HTML structure */
+.dashboard-graphs {
+    display: block;
     max-width: 1400px;
     margin: 0 auto 2rem auto;
-    min-height: 480px;
+}
+.intentionsBar-row, .purchaseReasonBar-row, .impactsBar-row {
+    width: 100%;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    display: block;
+}
+#purchaseReasonBar, #impactsBar, #intentionsBar {
+    background: #233c4d;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
+/* Dashboard Graphs Layout for new HTML structure */
+.dashboard-graphs {
+    display: block;
+    max-width: 1400px;
+    margin: 0 auto 2rem auto;
+}
+.intentionsBar-row, .purchaseReasonBar-row, .impactsBar-row {
+    width: 100%;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    display: block;
+}
 #purchaseReasonBar, #impactsBar, #intentionsBar {
-    flex: 0 0 calc(1400px * 3 / 4);
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
