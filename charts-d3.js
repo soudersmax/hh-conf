@@ -84,7 +84,11 @@ function renderBarChart(divId, counts, title) {
 		}
 		return lines.join('<br>');
 	}
-	const labels = entries.map(e => wrapLabel(e[0]));
+	const labels = entries.map(e => {
+		let label = e[0];
+		if (["other_intention", "other_reason", "other_impact"].includes(label)) label = "Other";
+		return wrapLabel(label);
+	});
 	const values = entries.map(e => e[1]);
 	const trace = {
 		x: labels,
