@@ -1,25 +1,5 @@
 /* Dashboard Graphs Grid Layout */
-.dashboard-graphs {
-    display: flex;
-    gap: 2rem;
-    max-width: 1400px;
-    margin: 0 auto 2rem auto;
-    min-height: 480px;
-}
-.intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-}
-.top-3-wrap {
-    grid-row: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    align-items: stretch;
-    justify-content: flex-start;
-}
-.purchase-reasons-row, .impacts-row {
+.purchase-reasons-row, .impacts-row, .intentions-row  {
     display: flex;
     justify-content: center;
     gap: 2rem;
@@ -28,7 +8,7 @@
     min-height: 480px;
 }
 
-#purchase-reasons, #impacts {
+#purchaseReasonBar, #impactsBar, #intentions {
     flex: 0 0 calc(1400px * 3 / 4);
     background: #233c4d;
     border-radius: 16px;
@@ -41,71 +21,6 @@
     border: 1px solid #fff;
 }
 
-#top-3-purchase-reasons, #top-3-impacts {
-    flex: 0 0 calc(1400px / 4);
-    background: #233c4d;
-    border-radius: 16px;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-    padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #fff;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.intentions-row {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    max-width: 1400px;
-    margin: 0 auto 2rem auto;
-    min-height: 480px;
-}
-
-#intentions {
-    flex: 0 0 calc(1400px * 3 / 4);
-    background: #233c4d;
-    border-radius: 16px;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-    padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #fff;
-    border: 1px solid #fff;
-}
-
-#top-3-intentions {
-    flex: 0 0 calc(1400px / 4);
-    background: #233c4d;
-    border-radius: 16px;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-    padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #fff;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#intentions {
-    max-width: calc(1400px * 3 / 4); /* 3 out of 4 stat squares width */
-    margin: 0 auto 2rem auto;
-    background: #233c4d;
-    border-radius: 16px;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-    padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #fff;
-    border: 1px solid #fff;
-}
 /* Dashboard Styles */
 body {
     font-family: 'Montserrat', sans-serif;
@@ -193,5 +108,5 @@ body {
     font-weight: 700;
     text-align: center;
     width: 100%;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2.5rem
 }
