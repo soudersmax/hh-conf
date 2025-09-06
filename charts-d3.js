@@ -106,13 +106,23 @@ function renderBarChart(divId, counts, title) {
 function renderAllBarCharts(data) {
 	// Aggregate and render for each question
 	const questions = [
-		{ type: 'intentions', div: 'intentionsBar' },
-		{ type: 'purchase_reason', div: 'purchaseReasonBar' },
-		{ type: 'impacts', div: 'impactsBar' }
+		{ type: 'intentions', div: 'intentionsBar', header: 'intentionsBar-header' },
+		{ type: 'purchase_reason', div: 'purchaseReasonBar', header: 'purchaseReasonBar-header' },
+		{ type: 'impacts', div: 'impactsBar', header: 'impactsBar-header' }
 	];
 	questions.forEach(q => {
 		const counts = aggregateCounts(data, q.type);
 		renderBarChart(q.div, counts);
+		// Set header text from first available question text in filtered data
+		let questionText = '';
+		for (const d of data) {
+			const found = d.Responses.find(r => r.Question === q.type);
+			if (found) {
+				questionText = found.Question;
+				break;
+			}
+		}
+		document.getElementById(q.header).textContent = questionText ? questionText.charAt(0).toUpperCase() + questionText.slice(1).replace('_', ' ') : '';
 	});
 
 	// Calculate stats from all_responses for filtered programs
