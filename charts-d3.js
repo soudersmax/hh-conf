@@ -93,7 +93,7 @@ function renderBarChart(divId, counts, title) {
 		marker: { color: 'rgba(55,128,191,0.7)' }
 	};
 	const layout = {
-		margin: { t: 40, b: 240 }, // more space below
+		margin: { t: 40, b: 120 }, // less space below
 		xaxis: {
 			tickangle: -45, // rotate labels for readability
 			tickfont: { size: 12 },
