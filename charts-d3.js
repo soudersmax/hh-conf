@@ -94,7 +94,7 @@ function renderBarChart(divId, counts, title) {
 		x: labels,
 		y: values,
 		type: 'bar',
-		marker: { color: '#95bc67' }
+		marker: { color: 'rgba(55,128,191,0.7)' }
 	};
 	const layout = {
 		margin: { t: 40, b: 120 }, // less space below
@@ -110,9 +110,9 @@ function renderBarChart(divId, counts, title) {
 function renderAllBarCharts(data) {
 	// Aggregate and render for each question
 	const questions = [
-		{ type: 'intentions', div: 'intentionsBar', header: 'What was your intention for attending this program?' },
-		{ type: 'purchase_reason', div: 'purchaseReasonBar', header: 'What factors influenced your choice to attend this program, specifically?' },
-		{ type: 'impacts', div: 'impactsBar', header: 'Which of these statements best summarizes what you are taking away from your  program experience and how you expect to integrate your experience into your daily life and/or within your own community?' }
+		{ type: 'intentions', div: 'intentionsBar', header: 'intentionsBar-header' },
+		{ type: 'purchase_reason', div: 'purchaseReasonBar', header: 'purchaseReasonBar-header' },
+		{ type: 'impacts', div: 'impactsBar', header: 'impactsBar-header' }
 	];
 	questions.forEach(q => {
 		const counts = aggregateCounts(data, q.type);
