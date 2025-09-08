@@ -21,7 +21,7 @@ custom_exclude = {
     'drinking', 'within', 'tourists', 'deck', 'happened', 'gained', 'fascism', 'children',
     'flora', 'merlin', 'alcohol', 'atum', 'bullet', 'dogs', 'babatunde', 'seems', 'carried',
     'programs', 'coming', 'medium', 'specifically', 'olatunji', 'barking', 'dig', 'campus',
-    'last', 'big'
+    'last', 'big', 'taking', 'work', 'hh', 'past', 'guests', 'around', 'none'
 }
 stop_words = set(stopwords.words('english'))
 
