@@ -15,7 +15,6 @@
     max-width: 100%;
     margin: 0;
     display: block;
-    border: none;
 }
 #purchaseReasonBar, #impactsBar, #intentionsBar {
     background: #233c4d;
@@ -25,38 +24,8 @@
     text-align: center;
     font-size: 1.25rem;
     font-weight: 500;
-    color: #fff;
-    border: none !important;
-}
-
-/* Dashboard Graphs Layout for new HTML structure */
-.dashboard-graphs {
-    display: block;
-    max-width: 1400px;
-    margin: 0 auto 2rem auto;
-}
-.intentionsBar-row, .purchaseReasonBar-row, .impactsBar-row {
-    width: 100%;
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-}
-.intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    display: block;
-}
-#purchaseReasonBar, #impactsBar, #intentionsBar {
-    background: #233c4d;
-    border-radius: 16px;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-    padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #fff;
-    border: 1px solid #fff;
+    color: #e2e5d6;
+    border: 1px solid #e2e5d6;
 }
 
 /* Dashboard Styles */
@@ -65,7 +34,7 @@ body {
     background: #233c4d;
     margin: 0;
     padding: 0;
-    color: #fff;
+    color: #e2e5d6;
 }
 
 .dashboard-title {
@@ -74,7 +43,7 @@ body {
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     font-weight: 700;
-    color: #fff;
+    color: #e2e5d6;
 }
 
 .dashboard-controls {
@@ -86,7 +55,7 @@ body {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
-    color: #fff;
+    color: #e2e5d6;
 }
 
 .dropdown {
@@ -94,16 +63,16 @@ body {
     padding: 0.75rem 1rem;
     font-size: 1rem;
     border-radius: 8px;
-    border: 1px solid #fff;
+    border: 1px solid #e2e5d6;
     background: #233c4d;
-    color: #fff;
+    color: #e2e5d6;
     box-shadow: 0 2px 6px rgba(0,0,0,0.05);
     outline: none;
     transition: border-color 0.2s;
 }
 
 .dropdown:focus {
-    border-color: #fff;
+    border-color: #e2e5d6;
 }
 
 .dashboard-stats {
@@ -121,14 +90,14 @@ body {
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
     padding: 2rem;
     text-align: center;
-    color: #fff;
+    color: #e2e5d6;
     min-height: 120px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
     position: relative;
-    border: 1px solid #fff;
+    border: 1px solid #e2e5d6;
 }
 
 .stat-label {
