@@ -2,20 +2,20 @@
 
 // Load the JSON data (fetch from local file)
 document.addEventListener('DOMContentLoaded', function() {
-	fetch('program_evaluation_summary.json')
-		.then(response => response.json())
-		.then(data => {
-			populateDropdowns(data);
-			renderAllBarCharts(data);
+    fetch('Data/program_evaluation_summary.json')
+        .then(response => response.json())
+        .then(data => {
+            populateDropdowns(data);
+            renderAllBarCharts(data);
 
-			// Add event listeners for dropdowns
-			document.getElementById('month-select').addEventListener('change', function() {
-				filterAndRenderCharts(data);
-			});
-			document.getElementById('program-select').addEventListener('change', function() {
-				filterAndRenderCharts(data);
-			});
-		});
+            // Add event listeners for dropdowns
+            document.getElementById('month-select').addEventListener('change', function() {
+                filterAndRenderCharts(data);
+            });
+            document.getElementById('program-select').addEventListener('change', function() {
+                filterAndRenderCharts(data);
+            });
+        });
 function filterAndRenderCharts(data) {
 	const month = document.getElementById('month-select').value;
 	const program = document.getElementById('program-select').value;
