@@ -73,8 +73,10 @@ function aggregateCounts(data, questionType) {
 }
 
 function renderBarChart(divId, counts, title) {
-	// Sort bars in descending order by value
-	const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+	// Filter out categories with zero values and sort bars in descending order by value
+	const entries = Object.entries(counts)
+		.filter(([_, value]) => value > 0)
+		.sort((a, b) => b[1] - a[1]);
 	// Multi-line wrap every 4 words
 	function wrapLabel(label) {
 		const words = label.split(' ');
@@ -91,10 +93,10 @@ function renderBarChart(divId, counts, title) {
 	});
 	const values = entries.map(e => e[1]);
 	const trace = {
-	x: labels,
-	y: values,
-	type: 'bar',
-	marker: { color: '#95bc67' }
+		x: labels,
+		y: values,
+		type: 'bar',
+		marker: { color: '#95bc67' }
 	};
 	const layout = {
 		margin: { t: 40, b: 120 }, // less space below
