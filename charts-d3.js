@@ -103,11 +103,13 @@ function renderBarChart(divId, counts, title) {
 		font: { color: '#e2e5d6' },
 		xaxis: {
 			tickangle: -45, // rotate labels for readability
-			tickfont: { size: 12, color: '#e2e5d6' },
+			tickfont: { size: 12, color: '#233c4d' },
+			color: '#233c4d',
 			automargin: true
 		},
 		yaxis: {
-			tickfont: { size: 12, color: '#e2e5d6' }
+			tickfont: { size: 12, color: '#233c4d' },
+			color: '#233c4d'
 		}
 	};
 	Plotly.newPlot(divId, [trace], layout);
