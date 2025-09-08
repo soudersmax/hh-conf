@@ -1,7 +1,7 @@
 /* Dashboard Graphs Layout for new HTML structure */
 /* Graph Header Styling */
 .graph-header {
-    display: block;
+    display: flex;
     width: 100%;
     text-align: center;
     margin-bottom: 1.5rem;
@@ -11,7 +11,7 @@
     color: #e2e5d6;
 }
 .dashboard-graphs {
-    display: block;
+    display: flex;
     max-width: 1400px;
     margin: 0 auto 2rem auto;
 }
@@ -45,7 +45,7 @@
     font-weight: 500;
     color: #e2e5d6;
     border: none;
-    display: block;
+    display: flex;
     width: 100%;
     text-align: center;
     margin-bottom: 1.5rem;
