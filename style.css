@@ -12,8 +12,9 @@
 }
 .intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
     width: 100%;
-    max-width: 100%;
-    margin: 0;
+    max-width: 900px;
+    min-height: 500px;
+    margin: 0 auto;
     display: block;
 }
 #purchaseReasonBar, #impactsBar, #intentionsBar {
@@ -25,7 +26,15 @@
     font-size: 1.25rem;
     font-weight: 500;
     color: #e2e5d6;
-    border: 1px solid #e2e5d6;
+    border: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #e2e5d6;
 }
 
 /* Dashboard Styles */
