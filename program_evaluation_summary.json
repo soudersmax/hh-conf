@@ -24,7 +24,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 7,
                     "To help me navigate a life transition": 0,
@@ -44,7 +44,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 10,
                     "the length of the program": 2,
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 9,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 11,
@@ -89,7 +89,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 2,
@@ -109,7 +109,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 1,
@@ -122,7 +122,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 5,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -153,7 +153,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 1,
@@ -173,7 +173,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 1,
@@ -186,7 +186,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 0,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -221,7 +221,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 3,
                     "To help me navigate a life transition": 3,
@@ -241,7 +241,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -254,7 +254,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 4,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 7,
@@ -285,7 +285,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 1,
@@ -305,7 +305,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -318,7 +318,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -346,7 +346,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 0,
@@ -366,7 +366,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -379,7 +379,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -410,7 +410,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
@@ -430,7 +430,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 4,
                     "the length of the program": 1,
@@ -443,7 +443,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -471,7 +471,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -491,7 +491,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -504,7 +504,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -536,7 +536,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 3,
                     "To help me navigate a life transition": 1,
@@ -556,7 +556,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 2,
                     "the length of the program": 0,
@@ -569,7 +569,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -601,7 +601,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 1,
@@ -621,7 +621,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 5,
                     "the length of the program": 0,
@@ -634,7 +634,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -664,7 +664,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 2,
@@ -684,7 +684,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -697,7 +697,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -726,7 +726,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
@@ -746,7 +746,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -759,7 +759,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -792,7 +792,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 2,
@@ -812,7 +812,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 2,
@@ -825,7 +825,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 5,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
@@ -855,7 +855,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -875,7 +875,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -888,7 +888,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -917,7 +917,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -937,7 +937,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -950,7 +950,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -980,7 +980,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 1,
@@ -1000,7 +1000,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 1,
@@ -1013,7 +1013,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -1043,7 +1043,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 2,
@@ -1063,7 +1063,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 2,
                     "the length of the program": 1,
@@ -1076,7 +1076,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -1111,7 +1111,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 5,
                     "To help me navigate a life transition": 3,
@@ -1131,7 +1131,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -1144,7 +1144,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 5,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 7,
@@ -1175,7 +1175,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -1195,7 +1195,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -1208,7 +1208,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -1237,7 +1237,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -1257,7 +1257,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -1270,7 +1270,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -1301,7 +1301,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 1,
@@ -1321,7 +1321,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -1334,7 +1334,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
@@ -1369,7 +1369,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 0,
@@ -1389,7 +1389,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 8,
                     "the length of the program": 6,
@@ -1402,7 +1402,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 7,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 5,
@@ -1435,7 +1435,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 0,
@@ -1455,7 +1455,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 4,
                     "the length of the program": 0,
@@ -1468,7 +1468,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 0,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -1498,7 +1498,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -1518,7 +1518,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 0,
@@ -1531,7 +1531,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -1559,7 +1559,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -1579,7 +1579,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 1,
@@ -1592,7 +1592,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -1629,7 +1629,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
                     "To help me navigate a life transition": 1,
@@ -1649,7 +1649,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 7,
                     "the length of the program": 1,
@@ -1662,7 +1662,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 8,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 7,
@@ -1697,7 +1697,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 0,
@@ -1717,7 +1717,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 7,
                     "the length of the program": 0,
@@ -1730,7 +1730,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 5,
@@ -1766,7 +1766,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 2,
@@ -1786,7 +1786,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -1799,7 +1799,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 9,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
@@ -1833,7 +1833,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
@@ -1853,7 +1853,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 0,
@@ -1866,7 +1866,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
@@ -1897,7 +1897,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
@@ -1917,7 +1917,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 2,
                     "the length of the program": 0,
@@ -1930,7 +1930,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -1966,7 +1966,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 7,
                     "To help me navigate a life transition": 4,
@@ -1986,7 +1986,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 6,
                     "the length of the program": 0,
@@ -1999,7 +1999,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 5,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
@@ -2028,7 +2028,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2048,7 +2048,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -2061,7 +2061,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2091,7 +2091,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2111,7 +2111,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 1,
@@ -2124,7 +2124,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 2,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2157,7 +2157,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 0,
@@ -2177,7 +2177,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 6,
                     "the length of the program": 2,
@@ -2190,7 +2190,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 0,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -2218,7 +2218,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2238,7 +2238,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -2251,7 +2251,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2284,7 +2284,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2304,7 +2304,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 5,
                     "the length of the program": 1,
@@ -2317,7 +2317,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 5,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -2352,7 +2352,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 0,
@@ -2372,7 +2372,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 6,
                     "the length of the program": 1,
@@ -2385,7 +2385,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 0,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2417,7 +2417,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2437,7 +2437,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 3,
                     "the length of the program": 0,
@@ -2450,7 +2450,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2468,10 +2468,10 @@
         "Program Name": "Science, Art, Sound & the Sacred",
         "Month": "July",
         "Ratings": {
-            "Total Responses": 15,
+            "Total Responses": 16,
             "Minimum Rating": 8,
             "Maximum Rating": 10,
-            "Average Rating": 9.2,
+            "Average Rating": 9.25,
             "all_responses": [
                 9,
                 10,
@@ -2487,24 +2487,25 @@
                 10,
                 8,
                 10,
-                9
+                9,
+                10
             ]
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
-                    "To deepen my understanding of myself": 3,
+                    "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 0,
                     "To deepen my connection with the natural world": 8,
                     "To explore Cortes Island and be active outdoors.": 1,
                     "To enjoy outdoor adventures": 1,
                     "For professional training or continuing education": 1,
                     "To rest and disconnect": 4,
-                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To develop a new practice or deepen my existing practice.": 2,
                     "To explore my creativity": 1,
                     "To make connections with other like-minded humans": 6,
-                    "To spend time with the presenter": 5,
+                    "To spend time with the presenter": 6,
                     "To heal": 2,
                     "Just to be at Hollyhock": 3,
                     "I didn\u2019t have a particular intention": 0,
@@ -2512,28 +2513,28 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
-                    "I was interested in the presenter.": 14,
+                    "I was interested in the presenter.": 15,
                     "the length of the program": 2,
                     "the timing of the program (month / season)": 9,
                     "the location (Cortes Island / Hollyhock)": 8,
                     "Affordability / price point": 0,
-                    "Subject Matter": 12,
+                    "Subject Matter": 13,
                     "Program Description": 5,
                     "other_reason": 4
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 6,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 3,
                     "Greater awareness of power, justice, and the impacts of colonization": 1,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 5,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 5,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 10,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 6,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 6,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 11,
                     "other_impact": 3
                 }
             }
@@ -2561,7 +2562,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 2,
@@ -2581,7 +2582,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 8,
                     "the length of the program": 1,
@@ -2594,7 +2595,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 9,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 9,
@@ -2625,7 +2626,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 1,
@@ -2645,7 +2646,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -2658,7 +2659,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 0,
@@ -2688,7 +2689,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -2708,7 +2709,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -2721,7 +2722,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -2759,7 +2760,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 2,
@@ -2779,7 +2780,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 6,
                     "the length of the program": 1,
@@ -2792,7 +2793,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 6,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
@@ -2810,10 +2811,10 @@
         "Program Name": "Connecting to Source: Yoga, Meditation, Ritual",
         "Month": "August",
         "Ratings": {
-            "Total Responses": 7,
+            "Total Responses": 8,
             "Minimum Rating": 2,
             "Maximum Rating": 10,
-            "Average Rating": 8.285714285714286,
+            "Average Rating": 8.0,
             "all_responses": [
                 10,
                 10,
@@ -2821,53 +2822,54 @@
                 9,
                 9,
                 9,
-                2
+                2,
+                6
             ]
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
-                    "To deepen my understanding of myself": 3,
+                    "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 0,
                     "To deepen my connection with the natural world": 1,
                     "To explore Cortes Island and be active outdoors.": 1,
                     "To enjoy outdoor adventures": 0,
                     "For professional training or continuing education": 0,
                     "To rest and disconnect": 5,
-                    "To develop a new practice or deepen my existing practice.": 5,
+                    "To develop a new practice or deepen my existing practice.": 6,
                     "To explore my creativity": 0,
                     "To make connections with other like-minded humans": 3,
                     "To spend time with the presenter": 0,
-                    "To heal": 0,
+                    "To heal": 1,
                     "Just to be at Hollyhock": 2,
                     "I didn\u2019t have a particular intention": 0,
                     "other_intention": 1
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 4,
                     "the length of the program": 2,
-                    "the timing of the program (month / season)": 4,
-                    "the location (Cortes Island / Hollyhock)": 5,
+                    "the timing of the program (month / season)": 5,
+                    "the location (Cortes Island / Hollyhock)": 6,
                     "Affordability / price point": 1,
-                    "Subject Matter": 4,
-                    "Program Description": 2,
+                    "Subject Matter": 5,
+                    "Program Description": 3,
                     "other_reason": 4
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
-                    "Restoration, peace and deeper presence": 5,
+                    "Restoration, peace and deeper presence": 6,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 2,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 4,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 5,
                     "other_impact": 3
                 }
             }
@@ -2889,7 +2891,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 0,
@@ -2909,7 +2911,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 0,
@@ -2922,7 +2924,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -2953,7 +2955,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 4,
                     "To help me navigate a life transition": 1,
@@ -2973,7 +2975,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 1,
                     "the length of the program": 1,
@@ -2986,7 +2988,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 3,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 3,
@@ -3014,7 +3016,7 @@
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 0,
@@ -3034,7 +3036,7 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
@@ -3047,7 +3049,7 @@
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 1,
@@ -3065,26 +3067,28 @@
         "Program Name": "The Art of Leadership",
         "Month": "August",
         "Ratings": {
-            "Total Responses": 2,
+            "Total Responses": 4,
             "Minimum Rating": 6,
             "Maximum Rating": 10,
-            "Average Rating": 8.0,
+            "Average Rating": 8.75,
             "all_responses": [
                 10,
-                6
+                6,
+                10,
+                9
             ]
         },
         "Responses": [
             {
-                "Question": "intentions",
+                "Question": "What was your intention for attending this program?",
                 "counts": {
-                    "To deepen my understanding of myself": 1,
+                    "To deepen my understanding of myself": 3,
                     "To help me navigate a life transition": 2,
                     "To deepen my connection with the natural world": 0,
                     "To explore Cortes Island and be active outdoors.": 0,
                     "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
+                    "For professional training or continuing education": 2,
+                    "To rest and disconnect": 3,
                     "To develop a new practice or deepen my existing practice.": 0,
                     "To explore my creativity": 0,
                     "To make connections with other like-minded humans": 1,
@@ -3096,27 +3100,27 @@
                 }
             },
             {
-                "Question": "purchase_reason",
+                "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 1,
+                    "the timing of the program (month / season)": 2,
+                    "the location (Cortes Island / Hollyhock)": 3,
                     "Affordability / price point": 1,
-                    "Subject Matter": 2,
+                    "Subject Matter": 4,
                     "Program Description": 1,
                     "other_reason": 0
                 }
             },
             {
-                "Question": "impacts",
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
-                    "Restoration, peace and deeper presence": 0,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 3,
                     "Greater awareness of power, justice, and the impacts of colonization": 1,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 2,
                     "Deep sense of interconnectedness and responsibility to the natural world": 0,
                     "other_impact": 3
                 }
