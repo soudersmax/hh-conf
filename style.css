@@ -15,26 +15,27 @@
     max-width: 1400px;
     margin: 0 auto 2rem auto;
 }
+/*chart rows should layout the chart and wordcloud side-by-side when space allows*/
 .intentionsBar-row, .purchaseReasonBar-row, .impactsBar-row {
-    width: 100%;
-    margin-bottom: 2rem;
+    display: flex;              /* place chart and image side-by-side */
+    align-items: flex-start;
     justify-content: center;
-    display: block;
+    gap: 1.5rem;
     width: 100%;
-    text-align: center;
-    margin-bottom: 1.5rem;
-    margin-top: 0.5rem;
-    font-size: 1.35rem;
-    font-weight: 600;
-    color: #e2e5d6;
+    margin: 0 0 1.5rem 0;
+    flex-wrap: wrap;           /* wrap image below chart on narrow screens */
 }
+
 .intentionsBar-wrap, .purchaseReasonBar-wrap, .impactsBar-wrap {
-    width: 100%;
+    flex: 1 1 600px;           /* allow chart area to grow, shrink, but keep a sensible basis */
+    min-width: 0;              /* important for flex items to allow proper shrinking */
     max-width: 1500px;
-    min-height: 500px;
-    margin: 0 auto;
+    min-height: 420px;        /* reserve vertical space for the plot */
+    margin: 0;
     display: block;
+    box-sizing: border-box;    /* include padding in size calculations */
 }
+/* chart containers */
 #purchaseReasonBar, #impactsBar, #intentionsBar {
     background: #233c4d;
     border-radius: 16px;
@@ -53,6 +54,22 @@
     font-size: 1.35rem;
     font-weight: 600;
     color: #e2e5d6;
+    overflow: hidden;         /* prevent Plotly internals from overflowing and overlapping sibling elements */
+    position: relative;       /* establish stacking context for safe z-indexing */
+}
+
+/* wordcloud image slot */
+.wordcloud {
+    flex: 0 0 350px;          /* fixed slot for the image */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wordcloud img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
 }
 
 /* Dashboard Styles */
