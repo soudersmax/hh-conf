@@ -30,7 +30,7 @@
     flex: 1 1 600px;           /* allow chart area to grow, shrink, but keep a sensible basis */
     min-width: 0;              /* important for flex items to allow proper shrinking */
     max-width: 1500px;
-    min-height: 567px;        /* reserve 35% more vertical space for the plot (420 * 1.35 = 567) */
+    min-height: 630px;        /* reserve 50% more vertical space for the plot (420 * 1.5 = 630) */
     margin: 0;
     display: flex;            /* center the plot target inside the wrapper */
     align-items: center;
@@ -63,7 +63,7 @@
 .plot-target, #purchaseReasonBar, #impactsBar, #intentionsBar {
     width: 100%;
     height: 100%;
-    min-height: 486px; /* inner plot viewport height increased by 35% (360 * 1.35 = 486) */
+    min-height: 540px; /* inner plot viewport height increased by 50% (360 * 1.5 = 540) */
     margin: 0;
     padding: 0; /* important: allow Plotly to control internal layout */
     background: transparent;
