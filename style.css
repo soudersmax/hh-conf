@@ -34,28 +34,39 @@
     margin: 0;
     display: block;
     box-sizing: border-box;    /* include padding in size calculations */
-}
-/* chart containers */
-#purchaseReasonBar, #impactsBar, #intentionsBar {
+    /* visual panel styling moved to the wrapper to avoid Plotly SVG overflow/clipping */
     background: #233c4d;
     border-radius: 16px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
     padding: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
     color: #e2e5d6;
-    border: none;
-    display: block;
+}
+/*
+    Plotly inner containers (the actual divs targeted by Plotly.react)
+    should be clean and full-size inside their visual wrapper.
+    Visual styling (background, padding) is applied to the wrapper
+    (.intentionsBar-wrap, etc). Keep the inner div free of padding
+    so Plotly can size the plot correctly. We use a sensible min-height
+    for consistent layout.
+    Removing overflow clipping on wrappers avoids cutting off Plotly
+    internals while allowing the image slot (.wordcloud) to sit beside
+    the plot.
+
+    Selected plot target styles: ensure full width and a sensible min height
+    and do not have padding that interferes with Plotly's auto sizing.
+*/
+/* purchaseReasonBar, #impactsBar, #intentionsBar selectors replaced by .plot-target
+    for clarity, but we keep original IDs for compatibility */
+/* actual plot containers (IDs used by the JS) */
+.plot-target, #purchaseReasonBar, #impactsBar, #intentionsBar {
     width: 100%;
-    text-align: center;
-    margin-bottom: 1.5rem;
-    margin-top: 0.5rem;
-    font-size: 1.35rem;
-    font-weight: 600;
+    height: auto;
+    min-height: 360px; /* inner plot viewport height */
+    margin: 0;
+    padding: 0; /* important: allow Plotly to control internal layout */
+    background: transparent;
     color: #e2e5d6;
-    overflow: hidden;         /* prevent Plotly internals from overflowing and overlapping sibling elements */
-    position: relative;       /* establish stacking context for safe z-indexing */
+    box-sizing: border-box;
 }
 
 /* wordcloud image slot */

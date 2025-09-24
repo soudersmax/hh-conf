@@ -25,22 +25,25 @@
     </div>
     <div class="dashboard-graphs">
         <h3 id="intentionsBar-header" class="graph-header">What was your intention for attending this program?</h3>
-        <div class="intentionsBar-row" style="display: flex; align-items: center;">
-            <div class="intentionsBar-wrap" style="flex: 1;">
-                <div id="intentionsBar"></div>
+        <div class="intentionsBar-row">
+            <div class="intentionsBar-wrap">
+                <div id="intentionsBar" class="plot-target"></div>
             </div>
             <div class="wordcloud">
                 <img src="intentions_wordcloud.png" alt="Intentions Word Cloud" />
             </div>
         </div>
         <h3 id="purchaseReasonBar-header" class="graph-header">What factors influenced your choice to attend this program, specifically?</h3>
-        <div class="purchaseReasonBar-wrap">
-            <div id="purchaseReasonBar"></div>
+        <div class="purchaseReasonBar-row">
+            <div class="purchaseReasonBar-wrap">
+                <div id="purchaseReasonBar" class="plot-target"></div>
+            </div>
+            <div class="wordcloud" aria-hidden="true"></div>
         </div>
         <h3 id="impactsBar-header" class="graph-header">Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?</h3>
         <div class="impactsBar-row">
-            <div class="impactsBar-wrap" style="flex: 1;">
-                <div id="impactsBar"></div>
+            <div class="impactsBar-wrap">
+                <div id="impactsBar" class="plot-target"></div>
             </div>
             <div class="wordcloud">
                 <img src="impact_wordcloud.png" alt="Impact Word Cloud" />
