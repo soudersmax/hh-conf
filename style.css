@@ -18,8 +18,8 @@
 /*chart rows should layout the chart and wordcloud side-by-side when space allows*/
 .intentionsBar-row, .purchaseReasonBar-row, .impactsBar-row {
     display: flex;              /* place chart and image side-by-side */
-    align-items: flex-start;
-    justify-content: center;
+    align-items: center;        /* vertically center chart and wordcloud */
+    justify-content: center;    /* center the pair horizontally in the page */
     gap: 1.5rem;
     width: 100%;
     margin: 0 0 1.5rem 0;
@@ -30,9 +30,11 @@
     flex: 1 1 600px;           /* allow chart area to grow, shrink, but keep a sensible basis */
     min-width: 0;              /* important for flex items to allow proper shrinking */
     max-width: 1500px;
-    min-height: 420px;        /* reserve vertical space for the plot */
+    min-height: 525px;        /* reserve 25% more vertical space for the plot (420 * 1.25 = 525) */
     margin: 0;
-    display: block;
+    display: flex;            /* center the plot target inside the wrapper */
+    align-items: center;
+    justify-content: center;
     box-sizing: border-box;    /* include padding in size calculations */
     /* visual panel styling moved to the wrapper to avoid Plotly SVG overflow/clipping */
     background: #233c4d;
@@ -60,8 +62,8 @@
 /* actual plot containers (IDs used by the JS) */
 .plot-target, #purchaseReasonBar, #impactsBar, #intentionsBar {
     width: 100%;
-    height: auto;
-    min-height: 360px; /* inner plot viewport height */
+    height: 100%;
+    min-height: 450px; /* inner plot viewport height increased by 25% (360 * 1.25 = 450) */
     margin: 0;
     padding: 0; /* important: allow Plotly to control internal layout */
     background: transparent;
