@@ -114,7 +114,23 @@ function renderBarChart(divId, counts, title) {
 			color: '#233c4d'
 		}
 	};
-	Plotly.newPlot(divId, [trace], layout);
+
+	// Defensive: remove any existing plot tied to this div to avoid duplicated DOM nodes
+	if (document.getElementById(divId) && Plotly.purge) {
+		try { Plotly.purge(document.getElementById(divId)); } catch (e) { /* ignore */ }
+	}
+
+	// Use Plotly.react to update an existing plot instead of creating new DOM nodes on every redraw.
+	// Also enable responsive mode so the plot adapts to container size.
+	const config = {responsive: true};
+	// Ensure autosize so Plotly doesn't grow the SVG repeatedly when re-rendering
+	layout.autosize = true;
+	Plotly.react(divId, [trace], layout, config).catch(() => {
+		// Fallback: if react fails for any reason, create a new plot but first clear container
+		const el = document.getElementById(divId);
+		if (el) el.innerHTML = '';
+		Plotly.newPlot(divId, [trace], layout, config);
+	});
 }
 
 function renderAllBarCharts(data) {
