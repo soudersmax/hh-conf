@@ -10,4 +10,4 @@
 * Update data folder
 * re-run charts-d3.js and text_analysis.py
 
-**Last data refresh:** September 16, 2025
+**Last data refresh:** October 6, 2025
