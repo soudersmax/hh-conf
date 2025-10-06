@@ -33,7 +33,11 @@ function filterAndRenderCharts(data) {
 
 function populateDropdowns(data) {
 	// Get unique months and program names
-	const months = [...new Set(data.map(d => d.Month))].sort();
+	const monthOrder = ['January', 'February', 'March', 'April', 'May', 'June', 
+	                   'July', 'August', 'September', 'October', 'November', 'December'];
+	const months = [...new Set(data.map(d => d.Month))].sort((a, b) => {
+		return monthOrder.indexOf(a) - monthOrder.indexOf(b);
+	});
 	const programs = [...new Set(data.map(d => d["Program Name"]))].sort();
 
 	const monthSelect = document.getElementById('month-select');
