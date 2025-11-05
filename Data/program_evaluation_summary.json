@@ -201,85 +201,17 @@
         ]
     },
     {
-        "Program Name": "Tending The Fire Within: A Creative Journaling Journey",
-        "Month": "May",
-        "Ratings": {
-            "Total Responses": 8,
-            "Minimum Rating": 9,
-            "Maximum Rating": 10,
-            "Average Rating": 9.875,
-            "all_responses": [
-                10,
-                10,
-                9,
-                10,
-                10,
-                10,
-                10,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 3,
-                    "To help me navigate a life transition": 3,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 1,
-                    "To enjoy outdoor adventures": 1,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 3,
-                    "To develop a new practice or deepen my existing practice.": 3,
-                    "To explore my creativity": 2,
-                    "To make connections with other like-minded humans": 3,
-                    "To spend time with the presenter": 0,
-                    "To heal": 1,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 2
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 2,
-                    "the location (Cortes Island / Hollyhock)": 5,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 8,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 4,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 7,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 2,
-                    "Greater awareness of power, justice, and the impacts of colonization": 1,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 2,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 3,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
         "Program Name": "Ebb & Flow: Kayaking & Yoga Practice (May)",
         "Month": "May",
         "Ratings": {
             "Total Responses": 4,
             "Minimum Rating": 9,
             "Maximum Rating": 10,
-            "Average Rating": 9.5,
+            "Average Rating": 9.25,
             "all_responses": [
                 9,
                 9,
-                10,
+                9,
                 10
             ]
         },
@@ -290,10 +222,10 @@
                     "To deepen my understanding of myself": 0,
                     "To help me navigate a life transition": 1,
                     "To deepen my connection with the natural world": 2,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 1,
+                    "To explore Cortes Island and be active outdoors.": 1,
+                    "To enjoy outdoor adventures": 2,
                     "For professional training or continuing education": 0,
-                    "To rest and disconnect": 2,
+                    "To rest and disconnect": 3,
                     "To develop a new practice or deepen my existing practice.": 0,
                     "To explore my creativity": 0,
                     "To make connections with other like-minded humans": 2,
@@ -301,7 +233,7 @@
                     "To heal": 1,
                     "Just to be at Hollyhock": 0,
                     "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 1
+                    "other_intention": 0
                 }
             },
             {
@@ -309,19 +241,19 @@
                 "counts": {
                     "I was interested in the presenter.": 0,
                     "the length of the program": 0,
-                    "the timing of the program (month / season)": 4,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 2,
-                    "Subject Matter": 2,
-                    "Program Description": 3,
-                    "other_reason": 2
+                    "the timing of the program (month / season)": 3,
+                    "the location (Cortes Island / Hollyhock)": 3,
+                    "Affordability / price point": 1,
+                    "Subject Matter": 3,
+                    "Program Description": 2,
+                    "other_reason": 1
                 }
             },
             {
                 "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
                     "Greater awareness of power, justice, and the impacts of colonization": 2,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
@@ -336,11 +268,12 @@
         "Program Name": "From Age-ing to Sage-ing\u00ae: Deepening the Sage Within",
         "Month": "May",
         "Ratings": {
-            "Total Responses": 1,
+            "Total Responses": 2,
             "Minimum Rating": 9,
-            "Maximum Rating": 9,
-            "Average Rating": 9.0,
+            "Maximum Rating": 10,
+            "Average Rating": 9.5,
             "all_responses": [
+                10,
                 9
             ]
         },
@@ -349,7 +282,7 @@
                 "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 1,
-                    "To help me navigate a life transition": 0,
+                    "To help me navigate a life transition": 1,
                     "To deepen my connection with the natural world": 0,
                     "To explore Cortes Island and be active outdoors.": 0,
                     "To enjoy outdoor adventures": 0,
@@ -357,9 +290,9 @@
                     "To rest and disconnect": 1,
                     "To develop a new practice or deepen my existing practice.": 0,
                     "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
+                    "To make connections with other like-minded humans": 1,
                     "To spend time with the presenter": 0,
-                    "To heal": 0,
+                    "To heal": 1,
                     "Just to be at Hollyhock": 0,
                     "I didn\u2019t have a particular intention": 0,
                     "other_intention": 0
@@ -373,7 +306,7 @@
                     "the timing of the program (month / season)": 1,
                     "the location (Cortes Island / Hollyhock)": 0,
                     "Affordability / price point": 0,
-                    "Subject Matter": 1,
+                    "Subject Matter": 2,
                     "Program Description": 0,
                     "other_reason": 0
                 }
@@ -382,11 +315,11 @@
                 "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
                     "Deep sense of interconnectedness and responsibility to the natural world": 0,
                     "other_impact": 0
                 }
@@ -394,16 +327,18 @@
         ]
     },
     {
-        "Program Name": "Write from Your Heart",
+        "Program Name": "Tending The Fire Within: A Creative Journaling Journey",
         "Month": "May",
         "Ratings": {
-            "Total Responses": 4,
-            "Minimum Rating": 7,
+            "Total Responses": 6,
+            "Minimum Rating": 10,
             "Maximum Rating": 10,
-            "Average Rating": 9.0,
+            "Average Rating": 10.0,
             "all_responses": [
-                9,
-                7,
+                10,
+                10,
+                10,
+                10,
                 10,
                 10
             ]
@@ -412,47 +347,47 @@
             {
                 "Question": "What was your intention for attending this program?",
                 "counts": {
-                    "To deepen my understanding of myself": 2,
-                    "To help me navigate a life transition": 1,
-                    "To deepen my connection with the natural world": 1,
+                    "To deepen my understanding of myself": 3,
+                    "To help me navigate a life transition": 2,
+                    "To deepen my connection with the natural world": 0,
                     "To explore Cortes Island and be active outdoors.": 0,
                     "To enjoy outdoor adventures": 0,
                     "For professional training or continuing education": 0,
-                    "To rest and disconnect": 0,
+                    "To rest and disconnect": 2,
                     "To develop a new practice or deepen my existing practice.": 3,
-                    "To explore my creativity": 1,
-                    "To make connections with other like-minded humans": 1,
-                    "To spend time with the presenter": 1,
+                    "To explore my creativity": 2,
+                    "To make connections with other like-minded humans": 2,
+                    "To spend time with the presenter": 0,
                     "To heal": 0,
-                    "Just to be at Hollyhock": 0,
+                    "Just to be at Hollyhock": 1,
                     "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 1
+                    "other_intention": 2
                 }
             },
             {
                 "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
-                    "I was interested in the presenter.": 4,
-                    "the length of the program": 1,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 3,
-                    "Subject Matter": 4,
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 2,
+                    "the location (Cortes Island / Hollyhock)": 4,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 6,
                     "Program Description": 1,
-                    "other_reason": 1
+                    "other_reason": 0
                 }
             },
             {
                 "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
-                    "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 6,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 1,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
                     "Deep sense of interconnectedness and responsibility to the natural world": 2,
-                    "other_impact": 2
+                    "other_impact": 0
                 }
             }
         ]
@@ -519,17 +454,17 @@
         ]
     },
     {
-        "Program Name": "The Heart of Nonviolent Communication",
+        "Program Name": "Write from Your Heart",
         "Month": "May",
         "Ratings": {
             "Total Responses": 5,
-            "Minimum Rating": 9,
+            "Minimum Rating": 7,
             "Maximum Rating": 10,
-            "Average Rating": 9.8,
+            "Average Rating": 8.6,
             "all_responses": [
-                10,
                 9,
-                10,
+                7,
+                7,
                 10,
                 10
             ]
@@ -538,32 +473,32 @@
             {
                 "Question": "What was your intention for attending this program?",
                 "counts": {
-                    "To deepen my understanding of myself": 3,
+                    "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
                     "To deepen my connection with the natural world": 1,
                     "To explore Cortes Island and be active outdoors.": 0,
                     "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 3,
-                    "To rest and disconnect": 3,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 4,
+                    "To explore my creativity": 1,
+                    "To make connections with other like-minded humans": 1,
+                    "To spend time with the presenter": 1,
                     "To heal": 0,
                     "Just to be at Hollyhock": 0,
                     "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 3
+                    "other_intention": 2
                 }
             },
             {
                 "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
-                    "I was interested in the presenter.": 2,
-                    "the length of the program": 0,
+                    "I was interested in the presenter.": 5,
+                    "the length of the program": 1,
                     "the timing of the program (month / season)": 1,
                     "the location (Cortes Island / Hollyhock)": 3,
-                    "Affordability / price point": 2,
-                    "Subject Matter": 3,
+                    "Affordability / price point": 3,
+                    "Subject Matter": 5,
                     "Program Description": 1,
                     "other_reason": 1
                 }
@@ -571,14 +506,14 @@
             {
                 "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
-                    "Restoration, peace and deeper presence": 3,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 3,
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 3,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
-                    "other_impact": 0
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
+                    "other_impact": 3
                 }
             }
         ]
@@ -594,9 +529,9 @@
             "all_responses": [
                 10,
                 10,
+                10,
                 9,
-                9,
-                10
+                9
             ]
         },
         "Responses": [
@@ -705,6 +640,71 @@
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "The Heart of Nonviolent Communication",
+        "Month": "May",
+        "Ratings": {
+            "Total Responses": 5,
+            "Minimum Rating": 9,
+            "Maximum Rating": 10,
+            "Average Rating": 9.8,
+            "all_responses": [
+                10,
+                9,
+                10,
+                10,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 3,
+                    "To help me navigate a life transition": 1,
+                    "To deepen my connection with the natural world": 1,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 3,
+                    "To rest and disconnect": 3,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 3
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 2,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 3,
+                    "Affordability / price point": 2,
+                    "Subject Matter": 3,
+                    "Program Description": 1,
+                    "other_reason": 1
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 3,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 3,
                     "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 0
                 }
@@ -840,6 +840,68 @@
         ]
     },
     {
+        "Program Name": "Resonance: A Deep Listening, Somatic Retreat",
+        "Month": "May",
+        "Ratings": {
+            "Total Responses": 2,
+            "Minimum Rating": 8,
+            "Maximum Rating": 10,
+            "Average Rating": 9.0,
+            "all_responses": [
+                10,
+                8
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 1,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 1,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 0,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 0,
+                    "the location (Cortes Island / Hollyhock)": 2,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 2,
+                    "Program Description": 0,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 2,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "Skymind: Sacred Land, Sacred View",
         "Month": "May",
         "Ratings": {
@@ -897,68 +959,6 @@
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
                     "Deep sense of interconnectedness and responsibility to the natural world": 3,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Resonance: A Deep Listening, Somatic Retreat",
-        "Month": "May",
-        "Ratings": {
-            "Total Responses": 2,
-            "Minimum Rating": 8,
-            "Maximum Rating": 10,
-            "Average Rating": 9.0,
-            "all_responses": [
-                10,
-                8
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 1,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 1,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 0,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 0,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 2,
-                    "Program Description": 0,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 2,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
                     "other_impact": 0
                 }
             }
@@ -1023,69 +1023,6 @@
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
                     "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 1
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Qi Medicine: A Silent Qigong and Tea Ceremony Retreat",
-        "Month": "June",
-        "Ratings": {
-            "Total Responses": 3,
-            "Minimum Rating": 9,
-            "Maximum Rating": 10,
-            "Average Rating": 9.666666666666666,
-            "all_responses": [
-                9,
-                10,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 1,
-                    "To help me navigate a life transition": 2,
-                    "To deepen my connection with the natural world": 1,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 2,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 1,
-                    "To heal": 1,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 2,
-                    "the length of the program": 1,
-                    "the timing of the program (month / season)": 2,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 3,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 3,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 3,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
-                    "other_impact": 0
                 }
             }
         ]
@@ -1159,6 +1096,192 @@
         ]
     },
     {
+        "Program Name": "Mindfulness in Medicine: Heal Thyself Retreat",
+        "Month": "June",
+        "Ratings": {
+            "Total Responses": 2,
+            "Minimum Rating": 7,
+            "Maximum Rating": 10,
+            "Average Rating": 8.5,
+            "all_responses": [
+                10,
+                7
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 1,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 1,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 0,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 2,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Qi Medicine: A Silent Qigong and Tea Ceremony Retreat",
+        "Month": "June",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 9,
+            "Maximum Rating": 10,
+            "Average Rating": 9.666666666666666,
+            "all_responses": [
+                10,
+                9,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 1,
+                    "To help me navigate a life transition": 2,
+                    "To deepen my connection with the natural world": 1,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 1,
+                    "To heal": 1,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 2,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 2,
+                    "the location (Cortes Island / Hollyhock)": 2,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 3,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 3,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Coastal Foraging Adventure",
+        "Month": "June",
+        "Ratings": {
+            "Total Responses": 1,
+            "Minimum Rating": 9,
+            "Maximum Rating": 9,
+            "Average Rating": 9.0,
+            "all_responses": [
+                9
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 1,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 1,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "Unwind: Yamuna Body Rolling & Essential Somatics",
         "Month": "June",
         "Ratings": {
@@ -1223,68 +1346,6 @@
         ]
     },
     {
-        "Program Name": "Mindfulness in Medicine: Heal Thyself Retreat",
-        "Month": "June",
-        "Ratings": {
-            "Total Responses": 2,
-            "Minimum Rating": 7,
-            "Maximum Rating": 10,
-            "Average Rating": 8.5,
-            "all_responses": [
-                10,
-                7
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 2,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 1,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 0,
-                    "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 2,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
         "Program Name": "Contemplative Mind, Spontaneous Brush: Ink, Colour and Japanese Washi Papers",
         "Month": "June",
         "Ratings": {
@@ -1293,10 +1354,10 @@
             "Maximum Rating": 10,
             "Average Rating": 9.25,
             "all_responses": [
-                10,
-                10,
                 8,
-                9
+                9,
+                10,
+                10
             ]
         },
         "Responses": [
@@ -1343,6 +1404,130 @@
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
                     "Deep sense of interconnectedness and responsibility to the natural world": 4,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Raise Your Vibe With Reiki: Levels 1 & 2",
+        "Month": "June",
+        "Ratings": {
+            "Total Responses": 1,
+            "Minimum Rating": 10,
+            "Maximum Rating": 10,
+            "Average Rating": 10.0,
+            "all_responses": [
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 1,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 0,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Wild Soma Being and Becoming: Embodied Practices for Collective Thriving",
+        "Month": "June",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 10,
+            "Maximum Rating": 10,
+            "Average Rating": 10.0,
+            "all_responses": [
+                10,
+                10,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 1,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 2,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 3,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 1
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 3,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 2,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 3,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
                     "other_impact": 0
                 }
             }
@@ -1483,130 +1668,6 @@
         ]
     },
     {
-        "Program Name": "Wild Soma Being and Becoming: Embodied Practices for Collective Thriving",
-        "Month": "June",
-        "Ratings": {
-            "Total Responses": 3,
-            "Minimum Rating": 10,
-            "Maximum Rating": 10,
-            "Average Rating": 10.0,
-            "all_responses": [
-                10,
-                10,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 1,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 2,
-                    "To rest and disconnect": 0,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 3,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 1
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 3,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 2,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 3,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Raise Your Vibe With Reiki: Levels 1 & 2",
-        "Month": "June",
-        "Ratings": {
-            "Total Responses": 1,
-            "Minimum Rating": 10,
-            "Maximum Rating": 10,
-            "Average Rating": 10.0,
-            "all_responses": [
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 1,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 1,
-                    "the timing of the program (month / season)": 0,
-                    "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
         "Program Name": "Dancing from the Inside Out",
         "Month": "July",
         "Ratings": {
@@ -1677,6 +1738,69 @@
         ]
     },
     {
+        "Program Name": "Ebb & Flow: Kayaking & Yoga Practice (July)",
+        "Month": "July",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 8,
+            "Maximum Rating": 10,
+            "Average Rating": 9.333333333333334,
+            "all_responses": [
+                8,
+                10,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 2,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 1,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 2
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 0,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 3,
+                    "the location (Cortes Island / Hollyhock)": 2,
+                    "Affordability / price point": 1,
+                    "Subject Matter": 1,
+                    "Program Description": 2,
+                    "other_reason": 1
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 2,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 3,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "Singing in the Vocal River",
         "Month": "July",
         "Ratings": {
@@ -1740,75 +1864,6 @@
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 8,
                     "Deep sense of interconnectedness and responsibility to the natural world": 0,
                     "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Slow Art, Somatic Practice, and Creative Rest",
-        "Month": "July",
-        "Ratings": {
-            "Total Responses": 9,
-            "Minimum Rating": 6,
-            "Maximum Rating": 10,
-            "Average Rating": 9.0,
-            "all_responses": [
-                9,
-                8,
-                10,
-                9,
-                6,
-                10,
-                10,
-                9,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 2,
-                    "To help me navigate a life transition": 2,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 1,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 4,
-                    "To develop a new practice or deepen my existing practice.": 4,
-                    "To explore my creativity": 5,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 1,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 3
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 5,
-                    "the location (Cortes Island / Hollyhock)": 5,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 8,
-                    "Program Description": 3,
-                    "other_reason": 1
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 9,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 4,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
-                    "other_impact": 2
                 }
             }
         ]
@@ -1884,11 +1939,12 @@
         "Program Name": "Pw\u0101tamowin - the act of dreaming - A Yogic retreat",
         "Month": "July",
         "Ratings": {
-            "Total Responses": 4,
+            "Total Responses": 5,
             "Minimum Rating": 10,
             "Maximum Rating": 10,
             "Average Rating": 10.0,
             "all_responses": [
+                10,
                 10,
                 10,
                 10,
@@ -1906,13 +1962,13 @@
                     "To enjoy outdoor adventures": 0,
                     "For professional training or continuing education": 0,
                     "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To develop a new practice or deepen my existing practice.": 3,
                     "To explore my creativity": 0,
                     "To make connections with other like-minded humans": 1,
                     "To spend time with the presenter": 0,
                     "To heal": 1,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 1,
+                    "Just to be at Hollyhock": 2,
+                    "I didn\u2019t have a particular intention": 2,
                     "other_intention": 0
                 }
             },
@@ -1921,10 +1977,10 @@
                 "counts": {
                     "I was interested in the presenter.": 2,
                     "the length of the program": 0,
-                    "the timing of the program (month / season)": 2,
-                    "the location (Cortes Island / Hollyhock)": 2,
+                    "the timing of the program (month / season)": 3,
+                    "the location (Cortes Island / Hollyhock)": 3,
                     "Affordability / price point": 1,
-                    "Subject Matter": 4,
+                    "Subject Matter": 5,
                     "Program Description": 2,
                     "other_reason": 2
                 }
@@ -1934,11 +1990,143 @@
                 "counts": {
                     "Restoration, peace and deeper presence": 1,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 2,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 2,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 3,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
                     "Deep sense of interconnectedness and responsibility to the natural world": 3,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Slow Art, Somatic Practice, and Creative Rest",
+        "Month": "July",
+        "Ratings": {
+            "Total Responses": 9,
+            "Minimum Rating": 6,
+            "Maximum Rating": 10,
+            "Average Rating": 9.0,
+            "all_responses": [
+                9,
+                8,
+                10,
+                9,
+                6,
+                10,
+                10,
+                9,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 2,
+                    "To help me navigate a life transition": 2,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 1,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 4,
+                    "To develop a new practice or deepen my existing practice.": 4,
+                    "To explore my creativity": 5,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 1,
+                    "Just to be at Hollyhock": 1,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 3
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 5,
+                    "the location (Cortes Island / Hollyhock)": 5,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 8,
+                    "Program Description": 3,
+                    "other_reason": 1
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 9,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 4,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 1,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "other_impact": 2
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Discover Cortes: Adventures in Nature (July)",
+        "Month": "July",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 8,
+            "Maximum Rating": 10,
+            "Average Rating": 9.333333333333334,
+            "all_responses": [
+                10,
+                10,
+                8
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 1,
+                    "To explore Cortes Island and be active outdoors.": 2,
+                    "To enjoy outdoor adventures": 1,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 0,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 1,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 0,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 2,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 2,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 2,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 0
                 }
             }
@@ -2014,131 +2202,6 @@
         ]
     },
     {
-        "Program Name": "Ebb & Flow: Kayaking & Yoga Practice (July)",
-        "Month": "July",
-        "Ratings": {
-            "Total Responses": 2,
-            "Minimum Rating": 8,
-            "Maximum Rating": 10,
-            "Average Rating": 9.0,
-            "all_responses": [
-                8,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 2,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 0,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 1
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 0,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 2,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 2,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 2,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Discover Cortes: Adventures in Nature (July)",
-        "Month": "July",
-        "Ratings": {
-            "Total Responses": 3,
-            "Minimum Rating": 8,
-            "Maximum Rating": 10,
-            "Average Rating": 9.333333333333334,
-            "all_responses": [
-                10,
-                10,
-                8
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 1,
-                    "To explore Cortes Island and be active outdoors.": 2,
-                    "To enjoy outdoor adventures": 1,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 0,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 1,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 0,
-                    "the length of the program": 1,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 2,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 2,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
         "Program Name": "Radical Dharma: Conversation",
         "Month": "July",
         "Ratings": {
@@ -2200,67 +2263,6 @@
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 5,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
                     "Deep sense of interconnectedness and responsibility to the natural world": 0,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Coastal Foraging Adventure",
-        "Month": "June",
-        "Ratings": {
-            "Total Responses": 1,
-            "Minimum Rating": 9,
-            "Maximum Rating": 9,
-            "Average Rating": 9.0,
-            "all_responses": [
-                9
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 1,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 1,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 1,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 0
                 }
             }
@@ -2611,6 +2613,69 @@
         ]
     },
     {
+        "Program Name": "In These Bodies, On These Lands: Iyengar Yoga and art-making",
+        "Month": "August",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 9,
+            "Maximum Rating": 10,
+            "Average Rating": 9.666666666666666,
+            "all_responses": [
+                10,
+                9,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 2,
+                    "To develop a new practice or deepen my existing practice.": 3,
+                    "To explore my creativity": 2,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 2,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 0,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 3,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 2,
+                    "other_reason": 1
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
+                    "other_impact": 1
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "Salish Shorelines: A Saltwater Journey",
         "Month": "August",
         "Ratings": {
@@ -2669,69 +2734,6 @@
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 2,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
                     "Deep sense of interconnectedness and responsibility to the natural world": 4,
-                    "other_impact": 1
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "In These Bodies, On These Lands: Iyengar Yoga and art-making",
-        "Month": "August",
-        "Ratings": {
-            "Total Responses": 3,
-            "Minimum Rating": 9,
-            "Maximum Rating": 10,
-            "Average Rating": 9.666666666666666,
-            "all_responses": [
-                10,
-                9,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 2,
-                    "To develop a new practice or deepen my existing practice.": 3,
-                    "To explore my creativity": 2,
-                    "To make connections with other like-minded humans": 0,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 2,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 0,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 3,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 2,
-                    "other_reason": 1
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 3,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 1
                 }
             }
@@ -2942,6 +2944,67 @@
         ]
     },
     {
+        "Program Name": "Harmony Within: A Journey of Songwriting and Reconnection",
+        "Month": "August",
+        "Ratings": {
+            "Total Responses": 1,
+            "Minimum Rating": 8,
+            "Maximum Rating": 8,
+            "Average Rating": 8.0,
+            "all_responses": [
+                8
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 1,
+                    "To explore my creativity": 1,
+                    "To make connections with other like-minded humans": 1,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 0,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 0,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 0,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "SoulCollage\u00ae: An Enchanting Path to Inner Wisdom & Creativity",
         "Month": "August",
         "Ratings": {
@@ -2997,67 +3060,6 @@
                     "Restoration, peace and deeper presence": 4,
                     "Transformational growth, healing, and sense of belonging as one's whole self": 4,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 2,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
-        "Program Name": "Harmony Within: A Journey of Songwriting and Reconnection",
-        "Month": "August",
-        "Ratings": {
-            "Total Responses": 1,
-            "Minimum Rating": 8,
-            "Maximum Rating": 8,
-            "Average Rating": 8.0,
-            "all_responses": [
-                8
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 0,
-                    "To develop a new practice or deepen my existing practice.": 1,
-                    "To explore my creativity": 1,
-                    "To make connections with other like-minded humans": 1,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 0,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 0,
-                    "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
-                    "Program Description": 0,
-                    "other_reason": 0
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 1,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
@@ -3327,69 +3329,6 @@
         ]
     },
     {
-        "Program Name": "Kintsugi: Embracing Imperfection",
-        "Month": "September",
-        "Ratings": {
-            "Total Responses": 3,
-            "Minimum Rating": 10,
-            "Maximum Rating": 10,
-            "Average Rating": 10.0,
-            "all_responses": [
-                10,
-                10,
-                10
-            ]
-        },
-        "Responses": [
-            {
-                "Question": "What was your intention for attending this program?",
-                "counts": {
-                    "To deepen my understanding of myself": 0,
-                    "To help me navigate a life transition": 0,
-                    "To deepen my connection with the natural world": 0,
-                    "To explore Cortes Island and be active outdoors.": 0,
-                    "To enjoy outdoor adventures": 0,
-                    "For professional training or continuing education": 0,
-                    "To rest and disconnect": 1,
-                    "To develop a new practice or deepen my existing practice.": 2,
-                    "To explore my creativity": 2,
-                    "To make connections with other like-minded humans": 2,
-                    "To spend time with the presenter": 0,
-                    "To heal": 0,
-                    "Just to be at Hollyhock": 0,
-                    "I didn\u2019t have a particular intention": 0,
-                    "other_intention": 0
-                }
-            },
-            {
-                "Question": "What factors influenced your choice to attend this program, specifically?",
-                "counts": {
-                    "I was interested in the presenter.": 1,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 1,
-                    "the location (Cortes Island / Hollyhock)": 2,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 2,
-                    "Program Description": 0,
-                    "other_reason": 3
-                }
-            },
-            {
-                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
-                "counts": {
-                    "Restoration, peace and deeper presence": 2,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
-                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
-                    "Greater awareness of power, justice, and the impacts of colonization": 0,
-                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
-                    "Lasting relationships, deep networks, cross-pollination and collaboration": 3,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
-                    "other_impact": 0
-                }
-            }
-        ]
-    },
-    {
         "Program Name": "Cultivating Wellbeing for Health Professionals",
         "Month": "September",
         "Ratings": {
@@ -3447,6 +3386,69 @@
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
                     "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Kintsugi: Embracing Imperfection",
+        "Month": "September",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 10,
+            "Maximum Rating": 10,
+            "Average Rating": 10.0,
+            "all_responses": [
+                10,
+                10,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 1,
+                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To explore my creativity": 2,
+                    "To make connections with other like-minded humans": 2,
+                    "To spend time with the presenter": 0,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 2,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 2,
+                    "Program Description": 0,
+                    "other_reason": 3
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 2,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 3,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 0
                 }
             }
@@ -3515,15 +3517,156 @@
         ]
     },
     {
+        "Program Name": "Beloved Community Bootcamp: A Training for Bridge-Builders",
+        "Month": "October",
+        "Ratings": {
+            "Total Responses": 2,
+            "Minimum Rating": 8,
+            "Maximum Rating": 10,
+            "Average Rating": 9.0,
+            "all_responses": [
+                8,
+                10
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 2,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 0,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 1,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 0,
+                    "To spend time with the presenter": 1,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 1,
+                    "the length of the program": 0,
+                    "the timing of the program (month / season)": 1,
+                    "the location (Cortes Island / Hollyhock)": 1,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 1,
+                    "Program Description": 0,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 0,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 2,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 1,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
+                    "other_impact": 0
+                }
+            }
+        ]
+    },
+    {
         "Program Name": "Eldering in Times of Transformation",
         "Month": "October",
         "Ratings": {
-            "Total Responses": 1,
-            "Minimum Rating": 5,
-            "Maximum Rating": 5,
-            "Average Rating": 5.0,
+            "Total Responses": 11,
+            "Minimum Rating": 2,
+            "Maximum Rating": 9,
+            "Average Rating": 5.818181818181818,
             "all_responses": [
-                5
+                5,
+                2,
+                6,
+                8,
+                9,
+                6,
+                4,
+                8,
+                5,
+                8,
+                3
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 9,
+                    "To help me navigate a life transition": 10,
+                    "To deepen my connection with the natural world": 2,
+                    "To explore Cortes Island and be active outdoors.": 0,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 0,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 2,
+                    "To explore my creativity": 0,
+                    "To make connections with other like-minded humans": 6,
+                    "To spend time with the presenter": 1,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 1,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 2,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 3,
+                    "the location (Cortes Island / Hollyhock)": 9,
+                    "Affordability / price point": 0,
+                    "Subject Matter": 10,
+                    "Program Description": 6,
+                    "other_reason": 1
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 5,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 1,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 2,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 1,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 6,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 2,
+                    "other_impact": 4
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Wild Mushrooms and the Mycology of Consciousness",
+        "Month": "October",
+        "Ratings": {
+            "Total Responses": 9,
+            "Minimum Rating": 9,
+            "Maximum Rating": 10,
+            "Average Rating": 9.88888888888889,
+            "all_responses": [
+                9,
+                10,
+                10,
+                10,
+                10,
+                10,
+                10,
+                10,
+                10
             ]
         },
         "Responses": [
@@ -3531,15 +3674,78 @@
                 "Question": "What was your intention for attending this program?",
                 "counts": {
                     "To deepen my understanding of myself": 0,
+                    "To help me navigate a life transition": 0,
+                    "To deepen my connection with the natural world": 7,
+                    "To explore Cortes Island and be active outdoors.": 1,
+                    "To enjoy outdoor adventures": 0,
+                    "For professional training or continuing education": 3,
+                    "To rest and disconnect": 0,
+                    "To develop a new practice or deepen my existing practice.": 3,
+                    "To explore my creativity": 1,
+                    "To make connections with other like-minded humans": 5,
+                    "To spend time with the presenter": 3,
+                    "To heal": 0,
+                    "Just to be at Hollyhock": 0,
+                    "I didn\u2019t have a particular intention": 0,
+                    "other_intention": 0
+                }
+            },
+            {
+                "Question": "What factors influenced your choice to attend this program, specifically?",
+                "counts": {
+                    "I was interested in the presenter.": 6,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 3,
+                    "the location (Cortes Island / Hollyhock)": 7,
+                    "Affordability / price point": 1,
+                    "Subject Matter": 7,
+                    "Program Description": 1,
+                    "other_reason": 0
+                }
+            },
+            {
+                "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
+                "counts": {
+                    "Restoration, peace and deeper presence": 1,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
+                    "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
+                    "Greater awareness of power, justice, and the impacts of colonization": 0,
+                    "Sense of responsibility to learn/unlearn in order to build more whole relationships": 1,
+                    "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 7,
+                    "other_impact": 1
+                }
+            }
+        ]
+    },
+    {
+        "Program Name": "Your True Nature: A Cold Immersion & Breathwork Retreat",
+        "Month": "October",
+        "Ratings": {
+            "Total Responses": 3,
+            "Minimum Rating": 7,
+            "Maximum Rating": 10,
+            "Average Rating": 8.666666666666666,
+            "all_responses": [
+                9,
+                10,
+                7
+            ]
+        },
+        "Responses": [
+            {
+                "Question": "What was your intention for attending this program?",
+                "counts": {
+                    "To deepen my understanding of myself": 2,
                     "To help me navigate a life transition": 1,
-                    "To deepen my connection with the natural world": 1,
+                    "To deepen my connection with the natural world": 0,
                     "To explore Cortes Island and be active outdoors.": 0,
                     "To enjoy outdoor adventures": 0,
                     "For professional training or continuing education": 0,
-                    "To rest and disconnect": 0,
-                    "To develop a new practice or deepen my existing practice.": 0,
+                    "To rest and disconnect": 2,
+                    "To develop a new practice or deepen my existing practice.": 2,
                     "To explore my creativity": 0,
-                    "To make connections with other like-minded humans": 1,
+                    "To make connections with other like-minded humans": 2,
                     "To spend time with the presenter": 0,
                     "To heal": 0,
                     "Just to be at Hollyhock": 0,
@@ -3551,11 +3757,11 @@
                 "Question": "What factors influenced your choice to attend this program, specifically?",
                 "counts": {
                     "I was interested in the presenter.": 0,
-                    "the length of the program": 0,
-                    "the timing of the program (month / season)": 0,
+                    "the length of the program": 1,
+                    "the timing of the program (month / season)": 3,
                     "the location (Cortes Island / Hollyhock)": 1,
-                    "Affordability / price point": 0,
-                    "Subject Matter": 1,
+                    "Affordability / price point": 1,
+                    "Subject Matter": 3,
                     "Program Description": 1,
                     "other_reason": 0
                 }
@@ -3563,13 +3769,13 @@
             {
                 "Question": "Which of these statements best summarizes what you are taking away from your program experience and how you expect to integrate your experience into your daily life and/or within your own community?",
                 "counts": {
-                    "Restoration, peace and deeper presence": 0,
-                    "Transformational growth, healing, and sense of belonging as one's whole self": 0,
+                    "Restoration, peace and deeper presence": 3,
+                    "Transformational growth, healing, and sense of belonging as one's whole self": 2,
                     "Greater capacity for inspired and effective leadership (of self and/or others).": 0,
                     "Greater awareness of power, justice, and the impacts of colonization": 0,
                     "Sense of responsibility to learn/unlearn in order to build more whole relationships": 0,
                     "Lasting relationships, deep networks, cross-pollination and collaboration": 1,
-                    "Deep sense of interconnectedness and responsibility to the natural world": 0,
+                    "Deep sense of interconnectedness and responsibility to the natural world": 1,
                     "other_impact": 0
                 }
             }
